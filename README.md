@@ -9,6 +9,7 @@ visualization learn
 - 持续化集：成保证代码高质量快速迭代
 
 ## 功能
+1. 创建渲染引擎, 渲染引擎有以下功能
 - 绘制管理元素（line circle ring path）
 - 坐标系变换（平移（translate）、放缩（Scale） 旋转（Rotate））
 - 对变换状态的管理，控制当前变换影响的元素范围
